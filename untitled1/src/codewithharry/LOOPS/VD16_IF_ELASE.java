@@ -1,4 +1,4 @@
-package codewithharry;
+package codewithharry.LOOPS;
 
 public class VD16_IF_ELASE {
     public static void main(String[] args) {

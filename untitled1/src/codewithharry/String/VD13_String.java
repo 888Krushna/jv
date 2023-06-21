@@ -1,4 +1,4 @@
-package codewithharry;
+package codewithharry.String;
 
 public class VD13_String {
     public static void main(String[]args){
