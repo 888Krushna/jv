@@ -1,8 +1,8 @@
 package codewithharry;
 
 import java.util.Scanner;
-public class VD5_Taking_Input {
-    public static void main(String[] args) {
+public class VD5_Taking_Input {/*
+*/   public static void main(String[] args) {
         System.out.println("It Input From the User");
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter number 1");
@@ -18,8 +18,8 @@ public class VD5_Taking_Input {
         //system.out.println("total sum");
         //System.out.println(sum);
         //boolean b1 = sc.hasNextInt();
-        //  System.out.println(b1);
-//String str =sc.nextLine();
-//System.out.println(str);}
+        //  System.out.println(b1);{?S{?S{?{?S
+///*String str =sc.nextLine();
+//System.out.println(str);}*/
     }
     }

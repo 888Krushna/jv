@@ -9,7 +9,7 @@ public class VD42_Constructor_default {
             System.out.println("i got new bike ktm ");
         }
 
-        //main method
+        //main method;
         public static void main(String[] args) {
 
             //calling a default constructor
